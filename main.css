@@ -1,0 +1,145 @@
+@media (min-width: 1200px) {
+        .fact1{
+            display: block;
+        }
+         .fact2{
+            display: none;
+        }
+         .fact3{
+            display: none;
+        }
+         .fact4{
+            display: none;
+        }
+        .fact5{
+            display: none;
+        }
+        .fact6{
+            display: none;
+        }
+
+        html{
+            background: blue;
+        }
+ }
+@media (max-width: 1200px) {
+        html{
+            background: grey;
+        }
+       .fact1{
+            display: block;
+        }
+         .fact2{
+            display: block;
+        }
+         .fact3{
+            display: none;
+        }
+         .fact4{
+            display: none;
+        }
+        .fact5{
+            display: none;
+        }
+        .fact6{
+            display: none;
+        }
+}
+ @media (max-width: 920px) {
+        html{
+            background: orange;
+        }
+        .fact1{
+            display: block;
+        }
+         .fact2{
+            display: block;
+        }
+         .fact3{
+            display: block;
+        }
+         .fact4{
+            display: none;
+        }
+        .fact5{
+            display: none;
+        }
+        .fact6{
+            display: none;
+        }
+
+ }
+
+ @media (max-width: 720px) {
+        html{
+            background: yellow;
+        }
+        .fact1{
+            display: block;
+        }
+         .fact2{
+            display: block;
+        }
+         .fact3{
+            display: block;
+        }
+         .fact4{
+            display: block;
+        }
+        .fact5{
+            display: none;
+        }
+        .fact6{
+            display: none;
+        }
+
+ }
+
+ @media (max-width: 520px) {
+        html{
+            background: green;
+        }
+         .fact1{
+            display: block;
+        }
+         .fact2{
+            display: block;
+        }
+         .fact3{
+            display: block;
+        }
+         .fact4{
+            display: block;
+        }
+        .fact5{
+            display: block;
+        }
+        .fact6{
+            display: none;
+        }
+ }
+
+ @media (max-width: 320px) {
+        html{
+            background: red;
+        }
+         .fact1{
+            display: block;
+        }
+         .fact2{
+            display: block;
+        }
+         .fact3{
+            display: block;
+        }
+         .fact4{
+            display: block;
+        }
+        .fact5{
+            display: block;
+        }
+        .fact6{
+            display: block;
+        }
+ }
+
